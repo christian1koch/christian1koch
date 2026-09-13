@@ -1,5 +1,5 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and VR developer at night.
+#### A Full-Stack Developer by day ☼ and Unity developer at night.
 
 - ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`
